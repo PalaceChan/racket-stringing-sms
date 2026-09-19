@@ -8,6 +8,6 @@ This service is operated by an individual tennis-racket stringer (sole proprieto
 
 Texts are limited to transactional customer-care notices about the racket order: ready-for-pickup notices and occasional status or delay updates. The stringer's assistant sends these messages on the stringer's behalf. This is not a marketing program, and messages are limited to a few per day overall.
 
-- [Privacy policy](/privacy)
-- [Terms and SMS disclosure](/terms)
-- [How consent is collected](/opt-in)
+- [Privacy policy]({{ '/privacy/' | relative_url }})
+- [Terms and SMS disclosure]({{ '/terms/' | relative_url }})
+- [How consent is collected]({{ '/opt-in/' | relative_url }})

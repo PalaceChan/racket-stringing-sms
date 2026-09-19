@@ -20,4 +20,4 @@ Access is limited to the individual stringer and the assistant software used to 
 
 **Mobile information and SMS consent will not be shared with third parties or affiliates for marketing or promotional purposes.**
 
-Questions about this policy or the SMS program can be sent to [owner email].
+Questions about this policy or the SMS program can be sent to velazquez.andres@gmail.com.

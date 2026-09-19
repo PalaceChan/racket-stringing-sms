@@ -12,4 +12,4 @@ Message frequency varies; typically 1–3 messages per racket, with a few messag
 
 Reply STOP to opt out. Reply HELP for help. Carriers are not liable for delayed or undelivered messages.
 
-For questions about the service or this SMS program, contact [owner email]. See the [privacy policy](/privacy) and [opt-in information](/opt-in) for more details.
+For questions about the service or this SMS program, contact velazquez.andres@gmail.com. See the [privacy policy]({{ '/privacy/' | relative_url }}) and [opt-in information]({{ '/opt-in/' | relative_url }}) for more details.

@@ -1,4 +1,6 @@
 title: Racket Stringing SMS Notifications
 theme: minima
 description: SMS notification policies for a sole-proprietor racket stringing service.
+url: "https://palacechan.github.io"
+baseurl: "/racket-stringing-sms"
 permalink: pretty
