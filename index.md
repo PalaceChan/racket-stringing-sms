@@ -4,10 +4,14 @@ title: Racket Stringing SMS Notifications
 permalink: /
 ---
 
-This service is operated by an individual tennis-racket stringer (sole proprietor). Customers drop off rackets for stringing and may choose to receive a text when the racket is ready for pickup.
+Racket Stringing SMS Notifications is operated by Andres Velazquez.
 
-Texts are limited to transactional customer-care notices about the racket order: ready-for-pickup notices and occasional status or delay updates. The stringer's assistant sends these messages on the stringer's behalf. This is not a marketing program, and messages are limited to a few per day overall.
+Racket Stringing SMS Notifications is the name of the messaging program, not a separate business or trade name; the business operates under the owner's own name, Andres Velazquez.
 
-- [Privacy policy]({{ '/privacy/' | relative_url }})
-- [Terms and SMS disclosure]({{ '/terms/' | relative_url }})
-- [How consent is collected]({{ '/opt-in/' | relative_url }})
+Existing racket-stringing customers may choose at in-person drop-off to receive recurring ready-for-pickup and occasional status or delay texts. Message frequency varies, typically 1–3 messages per racket. Msg & data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase.
+
+Texts are limited to transactional customer-care notices about the racket order. The owner's assistant software sends these messages on the owner's behalf. This is not a marketing program.
+
+- [Privacy Policy]({{ '/privacy/' | relative_url }})
+- [Terms and SMS Disclosure]({{ '/terms/' | relative_url }})
+- [How Consent Is Collected]({{ '/opt-in/' | relative_url }})

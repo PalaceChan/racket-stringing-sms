@@ -6,10 +6,20 @@ permalink: /terms/
 
 ## Racket Stringing SMS Notifications
 
-This SMS program sends customer-care messages about a racket-stringing order, including a notice that the racket is ready for pickup and occasional status or delay updates.
+**Registered operator:** Andres Velazquez.
 
-Message frequency varies; typically 1–3 messages per racket, with a few messages per day overall. Message and data rates may apply. Consent to these notifications is not a condition of purchasing any other service.
+Racket Stringing SMS Notifications is the name of the messaging program, not a separate business or trade name; the business operates under the owner's own name, Andres Velazquez.
 
-Reply STOP to opt out. Reply HELP for help. Carriers are not liable for delayed or undelivered messages.
+Effective: September 20, 2026
 
-For questions about the service or this SMS program, contact hooxen@agentmail.to. See the [privacy policy]({{ '/privacy/' | relative_url }}) and [opt-in information]({{ '/opt-in/' | relative_url }}) for more details.
+Racket Stringing SMS Notifications is a recurring customer-care SMS program for racket-stringing customers who expressly opt in at in-person drop-off. It sends ready-for-pickup and occasional order status or delay notices.
+
+Message frequency varies, typically 1–3 messages per racket. Msg & data rates may apply. Consent to receive texts is not a condition of purchase.
+
+Reply **STOP** to opt out. Reply **HELP** for help. After STOP, no further messages will be sent unless the customer validly re-enrolls.
+
+For support, email hooxen@agentmail.to.
+
+Carriers are not liable for delayed or undelivered messages.
+
+See the [Privacy Policy]({{ '/privacy/' | relative_url }}) and [How Consent Is Collected]({{ '/opt-in/' | relative_url }}).
