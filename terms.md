@@ -14,7 +14,9 @@ Effective: September 20, 2026
 
 Racket Stringing SMS Notifications is a recurring customer-care SMS program for racket-stringing customers who expressly opt in at in-person drop-off. It sends ready-for-pickup and occasional order status or delay notices.
 
-Message frequency varies, typically 1–3 messages per racket. Msg & data rates may apply. Consent to receive texts is not a condition of purchase.
+Mobile information and messaging consent are not shared with third parties or affiliates for marketing or promotional purposes.
+
+Message frequency varies, typically 1–3 messages per racket. Message and data rates may apply. Consent to receive texts is not a condition of purchase.
 
 Reply **STOP** to opt out. Reply **HELP** for help. After STOP, no further messages will be sent unless the customer validly re-enrolls.
 
